@@ -1,1 +1,1 @@
-Fixes BitDefender AntiVirus fir Unices Segmentation Fault Bug
+Fixes BitDefender AntiVirus for Unices Segmentation Fault Bug
